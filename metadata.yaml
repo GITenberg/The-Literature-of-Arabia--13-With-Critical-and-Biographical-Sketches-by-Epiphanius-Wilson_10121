@@ -1,0 +1,29 @@
+_repo: The-Literature-of-Arabia--13-With-Critical-and-Biographical-Sketches-by-Epiphanius-Wilson_10121
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Wilson, Epiphanius
+    birthdate: 1845
+    deathdate: 1916
+    gutenberg_agent_id: '4842'
+    url: http://www.gutenberg.org/2009/agents/4842
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10121'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Oriental Literature
+subjects:
+- !lcsh 'Arabic literature'
+- !lcc 'PJ'
+- GITenberg
+tableOfContents: 'The romance of Antar, translation by É. Delécluse and E. Wilson
+  -- Selections from Arabian poetry, translation by J. D. Carlyle -- Arabian nights:
+  selected tales, ed. by A. Lang.'
+title: "The Literature of Arabia\r\nWith Critical and Biographical Sketches by Epiphanius\
+  \ Wilson"
+url: http://www.gutenberg.org/ebooks/10121
